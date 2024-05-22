@@ -34,5 +34,5 @@ We welcome contributions to this project! Please refer to the CONTRIBUTING.md fi
 
 **License**
 
-This project is licensed under the MIT License (see LICENSE.md for details).
+This project is licensed under the MIT License.
 
