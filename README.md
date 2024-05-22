@@ -24,16 +24,6 @@ This project presents an automated Dark Web monitoring system designed to detect
 * Data Analysis and Visualization Libraries (e.g., pandas, Matplotlib)
 * Programming Language (e.g., Python)
 
-**Getting Started**
-
-1. **Prerequisites:** Install the required libraries mentioned in the Technical Stack section.
-2. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/<your-username>/dark-web-threat-detection.git
-   ```
-3. **Set Up Environment:** (Optional) Create a virtual environment to manage dependencies.
-4. **Run the System:** (Provide instructions on how to execute the script)
-
 **Disclaimer**
 
 This project is for educational and research purposes only. It is not intended to be used for malicious activities. Users are responsible for adhering to all applicable laws and regulations.
